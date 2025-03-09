@@ -7,4 +7,4 @@ I have configured SAP Business One on top of the SAP HANA database, which provid
 
 ✅ Successfully configured SAP Business One to run on SAP HANA.
 
-✅ Install Hana Studio and Hana Client, Crystal report
+✅ Install Hana Studio and Hana Client, Crystal report in Remote Desktop
