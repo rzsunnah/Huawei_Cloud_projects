@@ -1,10 +1,6 @@
 # Huawei Cloud Account Creation
 
-I have created Huawei account for over 
-
-5 customers
--
-how to set up an account for users who want to access and utilize Huawei Cloud's offerings, including compute resources, storage, networking, and more.
+I have created Huawei account for  over 10 customers how to set up an account for users who want to access and utilize Huawei Cloud's offerings, including compute resources, storage, networking, and more.
 
 🔹 Key Achievements
 
