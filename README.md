@@ -8,6 +8,6 @@ In this repository, I showcase a series of Huawei Cloud projects where I deploye
 I have worked on various Oracle Cloud services, including:
 
 1. Huawei account creation
-2. ECS setup
+2. ECS configuration
 3. Install Hana Database for SAP Business One
 4. Configure SAP Business One
