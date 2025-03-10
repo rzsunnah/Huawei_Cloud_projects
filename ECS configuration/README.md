@@ -14,7 +14,8 @@ I have provisioned ECS instances by taking private images, configuring network s
 ✅ Implemented auto-scaling based on workload demand, ensuring high availability.
 
 ✅ Applied cloud monitoring to track the health and performance of ECS instances.
-<img src="image.png" alt="account" width="600">
-<img src="img2.png" alt="account" width="600">
+
+<img src="image.png" alt="ecs" width="600">
+<img src="img2.png" alt="storage" width="600">
 
 
