@@ -16,3 +16,5 @@ I have set up accounts for over 5 customers who want to access and utilize Huawe
 ✅ Enabled security measures like multi-factor authentication (MFA) for account protection.
 
 ✅ Used Huawei Cloud Console to manage account settings, services, and resources.
+
+<img src="image.png" alt="account" width="800">
