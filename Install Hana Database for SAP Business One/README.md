@@ -17,4 +17,4 @@ The installation was carried out on a SUSE Linux environment, ensuring high avai
 
 ✅ Ensured database security by configuring roles, users, and permissions to safeguard sensitive business data.
 
-<img src="image.png" alt="hanadb" width="800">
+<img src="image.png" alt="hanadb" width="600">
