@@ -3,8 +3,7 @@
 I have installed the SAP HANA database to support SAP Business One, a popular ERP solution for small and medium-sized enterprises. The SAP HANA database provides high-performance data processing, enabling real-time analytics and transactional processing for SAP Business One.
 The installation was carried out on a SUSE Linux environment, ensuring high availability, security, and scalability for the database, which is crucial for SAP Business One's smooth operation.
 
-🔹 Projects & Expertise
--
+🔹 **Projects & Expertise**
 
 ✅ Successfully installed SAP HANA database on a SUSE Linux system to support SAP Business One.
 
@@ -17,3 +16,5 @@ The installation was carried out on a SUSE Linux environment, ensuring high avai
 ✅ Optimized HANA database performance, implementing best practices for SAP workloads.
 
 ✅ Ensured database security by configuring roles, users, and permissions to safeguard sensitive business data.
+
+<img src="image.png" alt="hanadb" width="800">
